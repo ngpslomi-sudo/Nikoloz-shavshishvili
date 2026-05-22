@@ -1,0 +1,6 @@
+{
+  "name": "Romantic Gift Website Builder and Customizer",
+  "description": "An interactive, highly-customizable romantic gift website creator with interactive envelopes, love stories, sweet coupon systems, customizable proposals, trivia, and AI letter assistant, perfect to personalize and sell on platforms like Gumroad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
